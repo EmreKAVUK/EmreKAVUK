@@ -1,8 +1,6 @@
 <img src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif" align="right" width="250" height="270">
 
 ### Hi there, I'm Emre.:smirk:
-<br>
-<br>
 
 ## Cyber Security(Pentester) | Computer Engineer
 <br>
