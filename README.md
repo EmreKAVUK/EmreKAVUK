@@ -5,7 +5,6 @@
 ## Cyber Security(Pentester) | Computer Engineer
 <br>
 <br>
-<br>
 
 <img src="https://tenor.com/view/regular-show-gif-26312561.gif" align="right" width="200" height="85">
 <br>
