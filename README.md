@@ -37,16 +37,16 @@
 </span>
 <br />
 <br />
-<details>
-<summary> :bulb: Github Stats </summary>
-<img src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
-</details>
-<br />
-<br />
 
+<summary> :bulb: Views </summary>
+<img src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
+
+<br />
+<br />
+<details
 <summary> :bulb: Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=EmreKAVUK&theme=gruvbox"></img>
-
+</details>
 
 <details>
 <summary> :bulb: Most Used Languages  </summary>
