@@ -46,7 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreKAVUK&layout=compact"></img>
 </details>
 
-<img align="right" width="50" height="60" src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
+<img align="right" width="100" height="100" src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
 
 [linkedin]: https://www.linkedin.com/in/emre-kavuk-96a639205/
 
