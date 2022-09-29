@@ -35,11 +35,11 @@
 </span>
 
 <summary> :bulb: Views </summary>
-<img src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
+<img align="right" src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
 
 <details>
 <summary> :bulb: Github Stats </summary>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=EmreKAVUK&theme=gruvbox"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=EmreKAVUK&theme=gruvbox"></img>
 </details>
 
 <details>
