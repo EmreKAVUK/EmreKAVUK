@@ -38,7 +38,7 @@
 <br />
 <br />
 <summary> :bulb: Views </summary>
-<img src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=blueviolet></img>
+<img src="https://komarev.com/ghpvc/?username=EmreKAVUK></img>
 </details>
 
 <details>
