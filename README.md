@@ -39,7 +39,7 @@
 
 <details>
 <summary> :bulb: Github Stats </summary>
-<img style="align="right" src="https://github-readme-stats.vercel.app/api?username=EmreKAVUK&theme=gruvbox"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=EmreKAVUK&theme=gruvbox"></img>
 </details>
 
 <details>
