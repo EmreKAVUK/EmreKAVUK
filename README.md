@@ -4,23 +4,17 @@
 <br>
 <br>
 
-## Cyber Security(Red Team)
+## Cyber Security(Pentester) | Computer Engineer
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img src="https://tenor.com/view/regular-show-gif-26312561.gif" align="right" width="300" height="200">
-<br>
-<br>
+<img src="https://tenor.com/view/regular-show-gif-26312561.gif" align="right" width="200" height="90">
 <br>
 <font size= 4 color="brown">Coffee runs through my veins instead of blood</font>
+<br>
+<br>
+<br>
+
 
 ### Reach out to me
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
@@ -40,10 +34,16 @@
 <img src="https://pngimage.net/wp-content/uploads/2018/06/nessus-logo-png.png" witdh="25" height="25">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" witdh="25" height="25">
 
-
+<br />
+<br />
 <details>
 <summary> :bulb: Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=EmreKAVUK&theme=radical"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=EmreKAVUK&theme=gruvbox"></img>
+</details>
+
+<details>
+<summary> :bulb: Most Used Languages  </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreKAVUK&layout=compact"></img>
 </details>
 
 
