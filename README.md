@@ -35,8 +35,6 @@
 <img src="https://pngimage.net/wp-content/uploads/2018/06/nessus-logo-png.png" witdh="25" height="25">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" witdh="25" height="25">
 </span>
-<br />
-<br />
 
 <summary> :bulb: Views </summary>
 <img src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
