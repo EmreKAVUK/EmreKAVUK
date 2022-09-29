@@ -37,6 +37,10 @@
 </span>
 <br />
 <br />
+<summary> :bulb: Views </summary>
+<img src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=blueviolet></img>
+</details>
+
 <details>
 
 <summary> :bulb: Github Stats </summary>
@@ -52,3 +56,5 @@
 [linkedin]: https://www.linkedin.com/in/emre-kavuk-96a639205/
 
 [instagram]: https://www.instagram.com/bykavuk/
+
+
