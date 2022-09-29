@@ -24,6 +24,7 @@
 
 ### Tech I Use
 <br>
+<span>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" witdh="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" witdh="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" witdh="25" height="25">
@@ -32,6 +33,7 @@
 <img src="https://nmap.org/images/nmap-logo-256x256.png" witdh="25" height="25">
 <img src="https://pngimage.net/wp-content/uploads/2018/06/nessus-logo-png.png" witdh="25" height="25">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" witdh="25" height="25">
+</span>
 <br />
 <br />
 <details>
