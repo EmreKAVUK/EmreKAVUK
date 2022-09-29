@@ -34,7 +34,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" witdh="25" height="25">
 </span>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
+
 
 <details>
 <summary> :bulb: Github Stats </summary>
@@ -46,6 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreKAVUK&layout=compact"></img>
 </details>
 
+<img align="right" width="50" height="60" src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
 
 [linkedin]: https://www.linkedin.com/in/emre-kavuk-96a639205/
 
