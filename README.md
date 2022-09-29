@@ -34,7 +34,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" witdh="25" height="25">
 </span>
 
-<summary> :bulb: Views </summary>
 <img align="right" src="https://komarev.com/ghpvc/?username=EmreKAVUK&color=red"></img>
 
 <details>
