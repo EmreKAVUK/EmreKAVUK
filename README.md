@@ -33,10 +33,10 @@
 <img src="https://nmap.org/images/nmap-logo-256x256.png" witdh="25" height="25">
 <img src="https://pngimage.net/wp-content/uploads/2018/06/nessus-logo-png.png" witdh="25" height="25">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" witdh="25" height="25">
-
 <br />
 <br />
 <details>
+
 <summary> :bulb: Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=EmreKAVUK&theme=gruvbox"></img>
 </details>
